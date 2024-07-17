@@ -40,3 +40,6 @@ Includes robust error handling mechanisms to manage exceptions like duplicate bo
 Clear and Display Functionality:
 
 Provides clear fields and display functions to reset input fields and refresh the library inventory view after operations.
+
+![image](https://github.com/user-attachments/assets/94fa53db-aac6-473a-940b-04e257933e1c)
+
