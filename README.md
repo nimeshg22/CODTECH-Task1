@@ -43,3 +43,8 @@ Provides clear fields and display functions to reset input fields and refresh th
 
 ![image](https://github.com/user-attachments/assets/94fa53db-aac6-473a-940b-04e257933e1c)
 
+![image](https://github.com/user-attachments/assets/cf699884-a29b-49e5-9419-9eeb04569516)
+![image](https://github.com/user-attachments/assets/99feb488-5010-457e-87a8-e5ac2224c5b1)
+![image](https://github.com/user-attachments/assets/c306e5e9-e24f-41f4-9508-7fadd984ce2b)
+
+
